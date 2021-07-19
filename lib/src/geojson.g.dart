@@ -1,10 +1,4 @@
-// GENERATED CODE - DO NOT MODIFY BY HAND
-
 part of 'geojson.dart';
-
-// **************************************************************************
-// JsonSerializableGenerator
-// **************************************************************************
 
 Point _$PointFromJson(Map<String, dynamic> json) => Point(
       bbox: json['bbox'] == null
